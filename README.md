@@ -16,6 +16,13 @@ This project analyzes Netflix's collection of movies up until June 1st, 2021. We
 - Animation/Christmas/Comedy/Adventure is the genre with the highest average IMDb score (8.2), while Heist film/Thriller has the lowest (3.7).
 - The highest-rated Netflix movie is 'David Attenborough: A Life on Our Planet,' a documentary released on October 4, 2020, with a runtime of 83 minutes and an IMDb score of 9.0
 
+## Visualizations
+
+* ![Top-Ranked Genre Based on Ratings for Each Year]("C:\Users\janid\Downloads\top_ranked_genre_per_year.png")
+
+* ![Top 5 Genres Based on Average IMDb Scores]("C:\Users\janid\Downloads\top_genre_based_on_ratings.png") 
+
+
 ## Conclusion
 This analysis provides valuable insights into the trends and patterns within Netflix's movie collection. By understanding audience preferences and the characteristics of successful movies, Netflix can make informed decisions about content acquisition and production.
 
