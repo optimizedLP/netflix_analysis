@@ -18,8 +18,9 @@ This project analyzes Netflix's collection of movies up until June 1st, 2021. We
 
 ## Visualizations
 
-* ![Top-Ranked Genre Based on Ratings for Each Year](Top-Ranked Genre Based on Ratings for Each Year.png)
-* ![Top 5 Genres Based on Average IMDb Scores](Top 5 Genres Based on Average IMDb Scores.png)
+<img src="viz_2.png" alt="Top-Ranked Genre Based on Ratings for Each Year" height="300">
+<img src="viz_1.png" alt="Top 5 Genres Based on Average IMDb Scores" height="300">
+
 
 
 ## Conclusion
